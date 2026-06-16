@@ -1,5 +1,5 @@
 import React from 'react'
-import "../style/Home.css"
+import "../style/home.css"
 import Mens from './Mens'
 import Kids from './Kids'
 import Genz from './Genz'

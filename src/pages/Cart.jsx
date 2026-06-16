@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-// import "../style/Cart.css";
+import "../style/cart.css";
 import { useSelector, useDispatch } from "react-redux";
 import { removeFromCart } from "../redux/cartSlice";
 import axios from "axios";
