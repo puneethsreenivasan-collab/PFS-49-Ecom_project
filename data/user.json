@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "name": "Puneeth Sreenivasan C",
+      "email": "puneethsreenivasan@codegnan.com",
+      "dob": "2026-06-10",
+      "address": "#245 shsbhj",
+      "gender": "Male",
+      "phone": "7996115319",
+      "password": "puneeths@2001",
+      "id": "YLvIc3mOvz0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

@@ -1,0 +1,72 @@
+.mensPro {
+  height: auto;
+  width: 100%;
+  /* background-color: #5e5353; */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-self: center;
+  /* gap:20px; */
+}
+
+.MENSPRO-card {
+  height: 300px;
+  width: 250px;
+  background-color: #fff;
+  border: 1px solid;
+  margin: 20px;
+  border-radius: 20px;
+}
+
+.MENSPRO-card img {
+  border-radius: 20px 20px 0 0;
+}
+
+.MENSPRO-card--info {
+  height: 50%;
+  width: 100%;
+  background-color: #0e0e0e;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  justify-content: end;
+  align-items: start;
+}
+
+.MENSPRO-card--info h3 {
+  height: 20%;
+  font-size: 20px;
+  font-weight: 500;
+  color: #fff;
+  margin-left: 10px;
+}
+
+.MENSPRO-card--info p {
+
+  height: 20%;
+  font-size: 15px;
+  font-weight: 500;
+  color: #fff;
+  margin-left: 10px;
+}
+
+.MENSPRO-card--info i {
+  height: 30%;
+  font-size: 20px;
+  font-weight: 500;
+  color: #ed0909;
+  margin-left: 10px;
+}
+
+.MENSPRO-card--info button {
+  height: 30%;
+  width: 100%;
+  padding: 10px;
+  background-color: #4f51eb;
+  border: none;
+  color: #fff;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}

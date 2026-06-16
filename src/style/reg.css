@@ -1,0 +1,46 @@
+.REG-Container {
+  height: auto;
+  width: 100%;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #f30b0b;
+  flex-direction: column;
+  padding: 50px 0;
+}
+.REG-form {
+  color: white;
+  height: auto;
+  width: auto;
+  border: 1px solid white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start ;
+  padding: 30px 50px;
+  
+}
+
+.REG-form label {
+  color: rgb(247, 252, 190);
+  font-size: larger;
+}
+
+.REG-form input {
+  color: rgb(22, 22, 21);
+  font-size: small;
+  margin-bottom: 10px;
+  border:none;
+  outline: none;
+}
+
+.REG-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: blue;
+    border: none;
+    border-radius: 20px;
+    color: white;
+}
+

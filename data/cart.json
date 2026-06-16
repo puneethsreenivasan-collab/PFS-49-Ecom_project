@@ -1,0 +1,21 @@
+{
+  "cartItems": [
+    {
+      "ProductName": "Oversized Graphic Print T-Shirt",
+      "ProductPrice": "₹499",
+      "category": "mens",
+      "image": "https://assets.myntassets.com/f_webp,h_560,q_90,w_420/v1/assets/images/2026/MAY/20/effaLwJ8_3595aaafb24d43d2bad2af99ca3e578d.jpg",
+      "description": "Comfortable oversized graphic print t-shirt for casual wear.",
+      "id": "r1117O9aUhs"
+    },
+    {
+      "ProductName": "BULLMER Men Pack Of 2 Round Neck Printed Oversized T-Shirts",
+      "ProductPrice": "₹538",
+      "category": "mens",
+      "image": "https://assets.myntassets.com/f_webp,h_560,q_90,w_420/v1/assets/images/29879437/2024/8/17/4af1d477-be66-4c27-b683-80dc5ed5acb11723844410547-BULLMER-Men-Pack-Of-2-Round-Neck-Printed-Oversized-T-shirts--1.jpg",
+      "description": "Pack of 2 oversized printed t-shirts with round neck.",
+      "id": "XYmcTQMPwzo"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

@@ -1,0 +1,49 @@
+nav {
+  height: 90px;
+  width: 100%;
+  background-color: gray;
+  display: flex;
+}
+
+.nav-logo {
+  height: 100%;
+  flex: 0.3;
+  background-color: lightblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-logo img {
+  width: 100px;
+  height: 70px;
+}
+.nav-list {
+  height: 100%;
+  flex: 1;
+  background-color: lightgray;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav-list a{
+  text-decoration: none;
+  color: black;
+}
+.nav-search {
+  height: 100%;
+  flex: 0.5;
+  background-color: rgb(6, 83, 236);
+}
+
+.nav-btn {
+  height: 100%;
+  flex: 0.4;
+  background-color: lightgrgb(236, 15, 15);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.nav-btn button{
+padding: 5px 10px;
+}

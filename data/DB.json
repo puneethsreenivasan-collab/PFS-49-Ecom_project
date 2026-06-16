@@ -1,0 +1,307 @@
+{
+  "men": [
+    {
+      "category": "tshirts",
+      "img": "https://constant.myntassets.com/pwa/assets/img/b2d6cb61-2796-46ba-b813-bf723c8fc27e1559216808945-Men-category-cards_01_tshirts.jpg"
+    },
+    {
+      "category": "jeans",
+      "img": "https://constant.myntassets.com/pwa/assets/img/1f2ab0ea-e6a3-4efe-b248-cbec95a900161559216808913-Men-category-cards_04_jeans.jpg"
+    },
+    {
+      "category": "trousers",
+      "img": "https://constant.myntassets.com/pwa/assets/img/f8262050-fe52-4390-98b8-21c634e09bae1559216808891-Men-category-cards_06_trousers.jpg"
+    },
+    {
+      "category": "featured",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2026/JUNE/1/6puOEhCo_913a9cbbba864604bbd2aec3823631d9.png"
+    },
+    {
+      "category": "featured",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2026/JUNE/1/lRpCVawp_29323b5b99384fd295e6d6ebae538aaf.png"
+    },
+    {
+      "category": "featured",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2026/JUNE/1/kKx4yWOY_6f944928940147238b733ecd6ef1704e.png"
+    },
+    {
+      "category": "featured",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2026/JUNE/1/utSANdDL_84551615d153467e9194c3fec990a294.png"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/MAY/29/IPgnprit_7284e8b3332b4c56a9221b1e5a442726.png"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/MAY/29/EekCMWUy_097dadbef68b4f4f923e063ae27521e0.png"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/MAY/29/GwEsbdaM_d89ff8665ed94e648162c3420e98f9fb.png"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/MAY/29/Y2bmNhK3_871bf505f2db4b189d4fbf536f041272.png"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/MAY/29/aOxgkSiI_5b21e1734804431bb35eeb138fe96f99.png"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/MAY/29/Y0mVmROR_1adab857a0974f03962f118c1efca883.png"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/MAY/29/K31JQaRo_95ef93bba7b040e397f6b8578337a9d3.png"
+    }
+  ],
+
+  "women": [
+    {
+      "category": "featured",
+      "img": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/MAY/29/HiibrydQ_5adef7eb777a430e86a0d70f486fc266.png"
+    },
+    {
+      "category": "featured",
+      "img": "https://assets.myntassets.com/w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/MAY/29/hpJexoLq_3d2d53c482864992a55fec11239a2ad7.png"
+    },
+    {
+      "category": "featured",
+      "img": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/MAY/27/8FLAOm0J_47f1de3e7b6443069c284e5a1d5efa44.jpg"
+    },
+    {
+      "category": "featured",
+      "img": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/MAY/27/OdOxbaIE_b9c9656bd44a4b85ad565b9c28aec8f2.jpg"
+    },
+    {
+      "category": "featured",
+      "img": "https://assets.myntassets.com/f_webp,w_133,c_limit,fl_progressive,dpr_2.0/assets/images/2026/MAY/27/Jd4rTfPY_62270bb74ad94d72b69b36a2e5883f1d.jpg"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/w_114,c_limit,fl_progressive,dpr_2.0/assets/images/2026/MAY/29/jp7v3XtU_c4a8ec9ef5854c04b054e3f0eb84a1fc.png"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/w_114,c_limit,fl_progressive,dpr_2.0/assets/images/2026/MAY/29/N6ZLUwEA_75317bc2235f4e05a82dd3e2a6f8d196.png"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/w_114,c_limit,fl_progressive,dpr_2.0/assets/images/2026/MAY/29/O2u1jh1n_c953f8e605a74fd9bec80c5ff1fdeac2.png"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/w_114,c_limit,fl_progressive,dpr_2.0/assets/images/2026/MAY/29/faqWr8NZ_1f9ebaa009a640b7956207f7f578fc67.png"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/w_114,c_limit,fl_progressive,dpr_2.0/assets/images/2026/MAY/29/qyt6FORM_d21d444cc1394098967defb8ff2c4a81.png"
+    }
+  ],
+  
+  "kids": [
+    {
+      "category": "ethnicwear",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/11/9/c22c8c4b-753a-4f90-8def-511d2ed6caf31604906586731-37-Essentials-EthnicWear.jpg"
+    },
+    {
+      "category": "dresses",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/11/9/2ab2f5b3-441a-430c-a605-2ac9d06007c01604906586315-28-Essentials-Dresses.jpg"
+    },
+    {
+      "category": "nightwear",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/11/9/efc4b19d-179f-4437-961c-839df50299a51604906586690-36-Essentials-Night_innerwear.jpg"
+    },
+    {
+      "category": "onesies",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/11/9/4e6eefd3-3355-4c1c-851e-48a49c97d5b31604906586407-30-Essentials-Onesies.jpg"
+    },
+
+    {
+      "category": "featured",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/11/9/f23d49ee-a598-4039-a6cd-33dab8a7e2011604906586056-22-IconicBrands-M_S.jpg"
+    },
+    {
+      "category": "featured",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/11/9/37147834-2bc5-4cdb-8eb9-68bf0fd48ca01604906586191-25-IconicBrands-Chicco.jpg"
+    },
+    {
+      "category": "featured",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/11/9/f79446fb-46b9-455a-a6c0-4ffe3f58dd071604906586106-23-IconicBrands-H_M.jpg"
+    },
+    {
+      "category": "featured",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2020/11/9/0f9ec937-304a-433a-9433-5409c556831c1604906586152-24-IconicBrands-TommyHilfiger.jpg"
+    },
+
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/f_webp,w_72,c_limit,fl_progressive,dpr_2.0/assets/images/2022/4/12/38907e29-87e1-46ec-8542-43a29e3c82c81649781648691-Teens-Clothing.jpg"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/f_webp,w_72,c_limit,fl_progressive,dpr_2.0/assets/images/2022/4/12/54794130-d358-421b-a73f-1ea5f98330641649781648655-Indian-Wear.jpg"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/f_webp,w_72,c_limit,fl_progressive,dpr_2.0/assets/images/2022/4/12/cca065d6-f192-44dd-9e12-40be8c5ed9ee1649781648648-H_M.jpg"
+    }
+  ],"beauty": [
+    {
+      "category": "skincare",
+      "img": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/15/XAbdfQ1J_eccdf5ce2bf4459298b89d336973c0ed.jpg"
+    },
+    {
+      "category": "bodycare",
+      "img": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/22580648/2024/7/30/92ce79cf-51a2-4e86-8aef-692fbb1eb9121722341815542-Vaseline-Non-Sticky-Gluta-Hya-Dewy-Radiance-Serum-in-Lotion--1.jpg"
+    },
+    {
+      "category": "skincare",
+      "img": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/14669014/2023/9/6/12adc15e-a720-48e0-a32e-4292b4f694431693992394603-Minimalist-2-Salicylic-Acid-Face-Wash-With-LHA-100-ml-181169-1.jpg"
+    },
+    {
+      "category": "fragrance",
+      "img": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/7669599/2023/10/30/a94f537d-6335-4f46-bfb5-f2fb7e64f9ca1698648783052-Roadster-Men-Into-The-Woods-Body-Spray-150-ml-61016986487828-1.jpg"
+    },
+
+    {
+      "category": "featured",
+      "img": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2026/APRIL/21/Fjv6cD5j_f329cd8cfcc7427591cc28353d5d70ed.jpg"
+    },
+    {
+      "category": "featured",
+      "img": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2026/MAY/13/tl92NrBi_48324d22d5bd44679e582d8e6d97c070.jpg"
+    },
+    {
+      "category": "featured",
+      "img": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2026/MAY/10/6Glh78Ml_b8581a23ac3e4dbebc73ae57aa5a1b22.jpg"
+    },
+    {
+      "category": "featured",
+      "img": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/7197213/2025/6/3/a453f7fa-de03-4518-b926-be5a4355954f1748950760566-Lakme-Peach-Ceramide-Moisturizer-with-SPF-24---200-ml-253174-1.jpg"
+    },
+    {
+      "category": "featured",
+      "img": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2026/JUNE/8/YcwJ9hpU_d8cb21ebffb544ecbc5348bd1ca48cf2.jpg"
+    },
+    {
+      "category": "featured",
+      "img": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2026/FEBRUARY/3/1LYeioNX_272bb3656fe949509287a4dd4215b92b.jpg"
+    },
+
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2026/MARCH/26/7uY76Ncm_0727c3f4c2924c8696bafe6de245f4a9.jpg"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2026/APRIL/8/6QaTUI8a_20d7922f37ea4b8b836e3ae6f8adf7f4.jpg"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2026/APRIL/2/YAGPGNdw_0d5531322b5e48c5b764befbbdbdb5d6.jpg"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/OCTOBER/4/wFDKIUC0_99eb7ba0582e40e488404980ab1f48dc.jpg"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2026/MARCH/17/Fal6wkbZ_195362104cd6460383aa6cfe5821a6ea.jpg"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2026/MAY/10/IiInuao0_5616fcd244b449239432dd4cb06b81e1.jpg"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2025/OCTOBER/24/TZXRt7Wv_a8a8baeea31b455b99514ec62675d4cb.jpg"
+    }
+  ],
+
+  "makeup": [
+    {
+      "category": "lipgloss",
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/30410862/2024/12/30/cf058f4a-1a93-436c-8c23-bfa01c8f11081735562174472-MARS-Candylicious-Coloured-Lip-Gloss-With-Vitamin-E-4ml-Toff-16.jpg"
+    }
+  ],
+
+  "newarrivals": [
+    {
+      "category": "new",
+      "img": "https://assets.myntassets.com/f_webp,dpr_1.0,q_60,w_210,c_limit,fl_progressive/assets/images/2025/SEPTEMBER/24/8TsKVtRo_818e38f230c7400896267641295dcfa8.jpg"
+    }
+  ],
+  "genz": [
+    {
+      "category": "banner",
+      "img": "https://assets.myntassets.com/assets/images/retaillabs/2022/12/4/76ef9e4f-1995-49c6-867f-3a7af645cd121670138185307-sne-hp-banner-1440x684-ux-edit.jpg"
+    },
+    {
+      "category": "featured",
+      "img": "https://assets.myntassets.com/w_800,c_limit,fl_progressive,dpr_2.0/assets/images/2025/OCTOBER/15/akinftiU_2d56988e04c34a3bb2bd4d7d25478d37.png"
+    },
+
+    {
+      "category": "sneakers",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2025/OCTOBER/14/8WqltwfN_149fcbc00ee94c6bb7f5e07d176bc39d.png"
+    },
+    {
+      "category": "streetwear",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2025/OCTOBER/14/2PrEdt1t_888935f77cc04658bd0a30f29dd808d4.png"
+    },
+    {
+      "category": "hoodies",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2025/OCTOBER/14/TPmXcxMJ_f9a6ec16d97a41fe975e48b990e48a1c.png"
+    },
+    {
+      "category": "oversized",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2025/OCTOBER/14/yBvCoIHJ_461000047ab4459aaa967229075f4bae.png"
+    },
+    {
+      "category": "casualwear",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2025/OCTOBER/14/m0kBqHyr_467ddd19de2249498fe6bc8cea308dc8.png"
+    },
+    {
+      "category": "denim",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2025/OCTOBER/14/PrKrxMQ0_61f9682563464443bdcbba636b600c6d.png"
+    },
+    {
+      "category": "accessories",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2025/OCTOBER/14/d3JRSKTl_2e64aa2e6e084a7abdb05183c7618860.png"
+    },
+
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2025/OCTOBER/14/sohVGYiQ_9a9161478d7e4cacb3a6b831c01dd2fa.png"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/f_webp,w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2025/OCTOBER/14/SlgEEysk_4037a4ede2124282aa761d3f89f9f512.png"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2025/OCTOBER/14/F8MxKVPK_338a0b7a1d974515bc2a17358bdd5bb0.png"
+    },
+    {
+      "category": "brands",
+      "img": "https://assets.myntassets.com/w_160,c_limit,fl_progressive,dpr_2.0/assets/images/2025/OCTOBER/14/8WEvkqR3_3c0f4520bd374e878e010e46a48dda11.png"
+    },
+
+    {
+      "category": "shirts",
+      "img": "https://constant.myntassets.com/pwa/assets/img/3c637a0a-0cda-45a7-8ce8-5bb212d4b6411559216808935-Men-category-cards_02_shirts.jpg"
+    },
+    {
+      "category": "sports_shoes",
+      "img": "https://constant.myntassets.com/pwa/assets/img/ac2715e2-b2e6-41a8-9f91-79ed52d5eacb1559216808902-Men-category-cards_05_sports_shoes.jpg"
+    },
+    {
+      "category": "logo",
+      "img": "https://constant.myntassets.com/pwa/assets/img/eors-logo-unit-dark.png"
+    }
+  ]
+
+}
